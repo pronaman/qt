@@ -7,6 +7,7 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
 
+    //jjj
     //test
     return a.exec();
 }
